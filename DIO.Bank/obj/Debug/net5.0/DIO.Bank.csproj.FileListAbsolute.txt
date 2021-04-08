@@ -1,0 +1,16 @@
+D:\projetosUnicsul\DigitalInovationOne\BootCampLocaliza\DIO.Bank\bin\Debug\net5.0\DIO.Bank.exe
+D:\projetosUnicsul\DigitalInovationOne\BootCampLocaliza\DIO.Bank\bin\Debug\net5.0\DIO.Bank.deps.json
+D:\projetosUnicsul\DigitalInovationOne\BootCampLocaliza\DIO.Bank\bin\Debug\net5.0\DIO.Bank.runtimeconfig.json
+D:\projetosUnicsul\DigitalInovationOne\BootCampLocaliza\DIO.Bank\bin\Debug\net5.0\DIO.Bank.runtimeconfig.dev.json
+D:\projetosUnicsul\DigitalInovationOne\BootCampLocaliza\DIO.Bank\bin\Debug\net5.0\DIO.Bank.dll
+D:\projetosUnicsul\DigitalInovationOne\BootCampLocaliza\DIO.Bank\bin\Debug\net5.0\ref\DIO.Bank.dll
+D:\projetosUnicsul\DigitalInovationOne\BootCampLocaliza\DIO.Bank\bin\Debug\net5.0\DIO.Bank.pdb
+D:\projetosUnicsul\DigitalInovationOne\BootCampLocaliza\DIO.Bank\obj\Debug\net5.0\DIO.Bank.csprojAssemblyReference.cache
+D:\projetosUnicsul\DigitalInovationOne\BootCampLocaliza\DIO.Bank\obj\Debug\net5.0\DIO.Bank.GeneratedMSBuildEditorConfig.editorconfig
+D:\projetosUnicsul\DigitalInovationOne\BootCampLocaliza\DIO.Bank\obj\Debug\net5.0\DIO.Bank.AssemblyInfoInputs.cache
+D:\projetosUnicsul\DigitalInovationOne\BootCampLocaliza\DIO.Bank\obj\Debug\net5.0\DIO.Bank.AssemblyInfo.cs
+D:\projetosUnicsul\DigitalInovationOne\BootCampLocaliza\DIO.Bank\obj\Debug\net5.0\DIO.Bank.csproj.CoreCompileInputs.cache
+D:\projetosUnicsul\DigitalInovationOne\BootCampLocaliza\DIO.Bank\obj\Debug\net5.0\DIO.Bank.dll
+D:\projetosUnicsul\DigitalInovationOne\BootCampLocaliza\DIO.Bank\obj\Debug\net5.0\ref\DIO.Bank.dll
+D:\projetosUnicsul\DigitalInovationOne\BootCampLocaliza\DIO.Bank\obj\Debug\net5.0\DIO.Bank.pdb
+D:\projetosUnicsul\DigitalInovationOne\BootCampLocaliza\DIO.Bank\obj\Debug\net5.0\DIO.Bank.genruntimeconfig.cache
